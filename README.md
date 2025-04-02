@@ -1,6 +1,10 @@
 ## 我的个人主页 👋
 ![easyboyOvO's GitHub stats](https://github-readme-stats.vercel.app/api?username=easyboyOvO)
+</br>
+</br>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=easyboyOvO)
+
+MySQL	![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
 <!--
 **easyboyOvO/easyboyOvO** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
